@@ -1,6 +1,3 @@
-# Welcome to StackEdit!
-
-
 # Selenium
 **app config**: url, username and password
 
